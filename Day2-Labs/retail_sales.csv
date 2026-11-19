@@ -1,0 +1,9 @@
+
+Region,Product,Units Sold,Revenue
+North,A,120,12000
+South,B,85,8500
+East,C,200,20000
+West,A,150,15000
+North,B,90,9000
+East,A,110,11000
+Total,,755,75500
