@@ -1,0 +1,241 @@
+﻿Case_ID,Created_Date,Region,Service_Area,Contact_Channel,Priority,First_Response_Hours,Resolution_Hours,Customer_Contacts,Team_Handoffs,Status_Update_Sent,Next_Update_Expectation_Shared,Reopened,Customer_Satisfaction_1_to_5,Case_Status
+MGS-0001,2026-09-28,North,Technical Support,Email,Medium,24.82,54.2,2,1,No,Yes,No,4,Pending
+MGS-0002,2026-09-20,South,Account Services,Email,Low,21.42,16.94,3,2,Yes,No,No,4,Pending
+MGS-0003,2026-09-23,North,Account Services,Phone,Medium,2.33,17.18,4,2,Yes,Yes,No,3,Resolved
+MGS-0004,2026-08-06,West,Order Support,Live chat,Medium,5.68,24.2,4,1,Yes,Yes,No,3,Resolved
+MGS-0005,2026-10-02,South,Account Services,Phone,Urgent,2.89,18.55,2,1,No,Yes,No,3,Resolved
+MGS-0006,2026-09-30,East,Customer Portal,Web portal,Medium,17.17,24.65,3,2,No,Yes,Yes,2,Pending
+MGS-0007,2026-10-07,West,Payments,Web portal,Medium,13.14,46.14,4,2,No,No,No,3,Resolved
+MGS-0008,2026-08-03,East,Payments,Web portal,Urgent,15.88,18.88,2,0,No,Yes,No,4,Resolved
+MGS-0009,2026-10-15,West,Account Services,Web portal,Medium,5.97,7.55,2,0,No,Yes,No,4,Resolved
+MGS-0010,2026-10-06,West,Payments,Phone,Medium,3.65,27.58,1,1,Yes,Yes,No,5,Resolved
+MGS-0011,2026-09-13,West,Payments,Web portal,Medium,5.92,11.95,2,2,Yes,Yes,No,3,Resolved
+MGS-0012,2026-10-12,East,Account Services,Web portal,Medium,12.66,22.18,2,0,Yes,Yes,No,4,Resolved
+MGS-0013,2026-10-08,West,Payments,Email,Low,14.62,48.72,3,2,No,No,No,3,Pending
+MGS-0014,2026-09-13,South,Payments,Email,Medium,11.63,22.49,1,0,Yes,Yes,No,5,Resolved
+MGS-0015,2026-08-26,West,Technical Support,Web portal,High,15.06,44.65,4,0,Yes,No,No,4,Pending
+MGS-0016,2026-08-19,North,Payments,Web portal,Medium,18.18,37.09,1,1,Yes,No,No,5,Resolved
+MGS-0017,2026-09-09,North,Account Services,Phone,Urgent,1.04,18.89,4,2,Yes,Yes,No,2,Pending
+MGS-0018,2026-10-15,East,Customer Portal,Email,Low,11.29,30.84,3,2,Yes,Yes,Yes,2,Resolved
+MGS-0019,2026-10-06,East,Order Support,Email,Medium,17.37,22.07,2,2,Yes,Yes,No,4,Resolved
+MGS-0020,2026-10-16,East,Customer Portal,Web portal,Low,18.88,30.23,2,0,No,No,No,4,Resolved
+MGS-0021,2026-09-26,North,Customer Portal,Web portal,Low,2.4,33.91,1,0,Yes,Yes,No,5,Resolved
+MGS-0022,2026-08-21,South,Order Support,Web portal,Medium,20.41,23.54,2,2,Yes,Yes,No,4,Pending
+MGS-0023,2026-09-05,South,Customer Portal,Email,Medium,11.45,32.71,2,0,Yes,Yes,Yes,4,Pending
+MGS-0024,2026-09-18,East,Customer Portal,Phone,Low,6.34,22.46,1,0,Yes,Yes,No,5,Pending
+MGS-0025,2026-08-22,South,Customer Portal,Web portal,Medium,6.02,14.13,2,1,No,Yes,No,4,Resolved
+MGS-0026,2026-08-05,West,Customer Portal,Live chat,High,4.53,21.64,3,2,Yes,Yes,No,3,Resolved
+MGS-0027,2026-10-12,South,Technical Support,Live chat,Medium,0.53,31.51,5,3,No,No,Yes,1,Resolved
+MGS-0028,2026-09-26,East,Technical Support,Email,Medium,5.74,42.07,1,0,No,Yes,No,5,Resolved
+MGS-0029,2026-09-19,East,Technical Support,Phone,Low,3.97,24.89,4,0,No,Yes,No,3,Resolved
+MGS-0030,2026-10-05,East,Payments,Email,Medium,7.2,18.15,3,0,Yes,Yes,No,3,Resolved
+MGS-0031,2026-09-13,North,Payments,Web portal,High,13.02,26.85,3,0,Yes,Yes,No,4,Resolved
+MGS-0032,2026-09-16,West,Customer Portal,Web portal,Medium,23.45,26.17,1,1,Yes,Yes,No,5,Pending
+MGS-0033,2026-10-22,West,Technical Support,Live chat,Medium,1.33,50.21,1,0,Yes,No,No,5,Resolved
+MGS-0034,2026-10-23,East,Payments,Email,Medium,4.08,26.72,1,1,Yes,No,No,5,Pending
+MGS-0035,2026-10-03,South,Customer Portal,Web portal,Low,10.99,8.36,3,0,Yes,Yes,No,4,Pending
+MGS-0036,2026-08-04,East,Payments,Email,Medium,17.52,44.06,4,2,Yes,Yes,No,3,Resolved
+MGS-0037,2026-08-08,North,Payments,Email,High,4.43,34.07,2,0,Yes,Yes,No,4,Escalated
+MGS-0038,2026-10-04,South,Technical Support,Web portal,Urgent,18.51,39.03,1,1,Yes,Yes,No,5,Resolved
+MGS-0039,2026-10-24,South,Customer Portal,Email,Medium,19.87,9.16,3,0,Yes,Yes,Yes,3,Resolved
+MGS-0040,2026-10-09,East,Technical Support,Live chat,Low,3.92,31.02,1,0,No,Yes,No,4,Resolved
+MGS-0041,2026-09-13,West,Technical Support,Phone,Urgent,0.3,21.38,2,2,No,Yes,No,4,Resolved
+MGS-0042,2026-08-07,East,Order Support,Live chat,Medium,5.5,8.86,3,1,Yes,Yes,No,4,Resolved
+MGS-0043,2026-08-06,East,Payments,Phone,Low,7.23,32.17,3,0,Yes,No,No,4,Pending
+MGS-0044,2026-09-04,East,Customer Portal,Email,High,2.38,18.79,4,1,Yes,Yes,No,2,Resolved
+MGS-0045,2026-09-26,East,Payments,Phone,Medium,6.54,24.72,3,0,Yes,Yes,No,4,Resolved
+MGS-0046,2026-08-13,West,Customer Portal,Web portal,Medium,25.21,25.21,4,1,Yes,Yes,No,3,Resolved
+MGS-0047,2026-09-06,East,Technical Support,Phone,Medium,1.04,23.42,5,2,Yes,Yes,No,3,Resolved
+MGS-0048,2026-10-19,East,Order Support,Phone,Low,4.0,30.49,3,2,No,Yes,No,4,Resolved
+MGS-0049,2026-10-17,North,Technical Support,Live chat,Medium,2.06,38.82,3,1,Yes,Yes,Yes,3,Resolved
+MGS-0050,2026-08-14,North,Order Support,Email,Medium,10.66,23.01,2,1,Yes,Yes,No,3,Resolved
+MGS-0051,2026-09-02,South,Customer Portal,Web portal,Low,2.15,33.09,4,2,No,No,No,2,Escalated
+MGS-0052,2026-10-17,East,Order Support,Phone,Medium,3.12,18.94,3,2,Yes,Yes,No,4,Resolved
+MGS-0053,2026-10-16,West,Account Services,Web portal,Medium,6.46,28.71,3,1,No,Yes,No,4,Pending
+MGS-0054,2026-08-03,North,Technical Support,Web portal,Low,14.26,42.37,2,1,No,Yes,No,4,Resolved
+MGS-0055,2026-08-17,South,Customer Portal,Email,High,3.76,8.78,1,1,Yes,No,No,5,Resolved
+MGS-0056,2026-10-25,West,Account Services,Web portal,Medium,23.07,36.74,4,1,Yes,No,No,3,Resolved
+MGS-0057,2026-10-23,West,Account Services,Email,Low,2.64,10.46,2,0,Yes,Yes,No,5,Resolved
+MGS-0058,2026-08-24,South,Account Services,Web portal,Medium,6.71,15.18,1,0,Yes,Yes,No,5,Resolved
+MGS-0059,2026-09-03,South,Customer Portal,Web portal,Medium,25.59,23.32,1,1,No,Yes,No,5,Resolved
+MGS-0060,2026-09-17,West,Payments,Live chat,Medium,2.55,28.86,1,0,Yes,No,No,5,Resolved
+MGS-0061,2026-08-06,North,Technical Support,Phone,Low,2.04,30.01,3,3,No,Yes,No,3,Resolved
+MGS-0062,2026-09-11,East,Payments,Live chat,Medium,4.51,25.42,3,3,Yes,Yes,No,2,Resolved
+MGS-0063,2026-09-21,South,Customer Portal,Web portal,Low,16.21,32.4,2,1,Yes,Yes,No,4,Pending
+MGS-0064,2026-08-30,East,Order Support,Web portal,High,15.68,8.41,2,1,Yes,Yes,No,4,Resolved
+MGS-0065,2026-10-11,East,Order Support,Phone,Low,5.25,13.09,2,2,Yes,Yes,No,3,Resolved
+MGS-0066,2026-09-20,West,Customer Portal,Phone,High,2.52,7.38,3,0,Yes,No,No,4,Resolved
+MGS-0067,2026-09-08,West,Technical Support,Phone,Medium,0.46,37.61,2,0,Yes,No,No,5,Escalated
+MGS-0068,2026-09-17,East,Customer Portal,Live chat,High,2.91,2.67,2,1,Yes,No,No,4,Resolved
+MGS-0069,2026-10-18,North,Payments,Email,Low,16.44,39.75,1,1,Yes,Yes,Yes,4,Resolved
+MGS-0070,2026-08-27,East,Account Services,Phone,Medium,2.54,30.82,1,0,Yes,Yes,No,4,Resolved
+MGS-0071,2026-10-01,West,Payments,Web portal,Low,9.66,25.11,3,2,No,No,No,4,Resolved
+MGS-0072,2026-09-26,West,Account Services,Live chat,Medium,0.65,19.87,5,2,Yes,Yes,Yes,2,Resolved
+MGS-0073,2026-08-13,North,Payments,Web portal,Low,4.54,33.26,3,2,Yes,Yes,No,3,Pending
+MGS-0074,2026-09-05,East,Technical Support,Email,High,6.31,34.08,2,0,Yes,Yes,No,4,Resolved
+MGS-0075,2026-10-23,South,Technical Support,Phone,Medium,2.81,44.04,3,0,No,Yes,No,4,Resolved
+MGS-0076,2026-09-20,North,Order Support,Phone,Medium,4.67,21.87,5,1,No,No,No,2,Resolved
+MGS-0077,2026-08-09,East,Customer Portal,Email,Medium,9.77,10.78,1,1,Yes,Yes,No,4,Escalated
+MGS-0078,2026-10-21,North,Order Support,Phone,Medium,2.39,29.81,1,1,Yes,Yes,No,5,Escalated
+MGS-0079,2026-09-21,West,Technical Support,Email,Medium,16.82,13.83,2,2,Yes,No,Yes,4,Escalated
+MGS-0080,2026-10-10,North,Technical Support,Email,High,14.34,33.79,2,1,Yes,No,Yes,3,Resolved
+MGS-0081,2026-08-27,South,Account Services,Phone,Low,7.25,15.79,2,1,Yes,Yes,No,3,Resolved
+MGS-0082,2026-08-12,East,Order Support,Live chat,Medium,1.3,12.96,3,2,Yes,Yes,No,3,Resolved
+MGS-0083,2026-08-20,North,Account Services,Web portal,Medium,6.47,13.55,2,0,Yes,Yes,No,4,Resolved
+MGS-0084,2026-09-08,South,Technical Support,Email,Medium,3.99,29.37,1,1,Yes,Yes,Yes,4,Resolved
+MGS-0085,2026-08-16,North,Customer Portal,Live chat,High,1.33,9.01,1,1,Yes,Yes,No,5,Escalated
+MGS-0086,2026-09-27,South,Customer Portal,Email,Urgent,15.52,4.08,1,0,Yes,No,No,5,Resolved
+MGS-0087,2026-10-20,North,Payments,Live chat,High,0.2,33.35,1,1,No,Yes,No,5,Resolved
+MGS-0088,2026-09-23,South,Technical Support,Email,Medium,24.41,32.15,1,1,Yes,Yes,No,5,Resolved
+MGS-0089,2026-08-18,North,Account Services,Phone,Medium,7.01,4.62,2,1,Yes,No,No,4,Pending
+MGS-0090,2026-10-24,East,Order Support,Email,Low,6.19,33.57,2,1,No,Yes,No,4,Resolved
+MGS-0091,2026-10-18,South,Technical Support,Phone,Medium,2.45,30.23,2,1,Yes,Yes,No,4,Resolved
+MGS-0092,2026-08-31,West,Customer Portal,Email,Urgent,5.02,26.65,4,2,No,Yes,No,2,Resolved
+MGS-0093,2026-09-15,South,Technical Support,Live chat,Medium,6.34,15.09,5,3,Yes,Yes,Yes,2,Pending
+MGS-0094,2026-09-12,North,Technical Support,Phone,Medium,5.64,23.5,1,1,No,Yes,No,4,Resolved
+MGS-0095,2026-10-12,South,Customer Portal,Email,Low,8.08,8.28,4,2,No,Yes,No,3,Resolved
+MGS-0096,2026-08-08,South,Customer Portal,Email,Medium,5.48,32.86,2,1,Yes,Yes,No,3,Pending
+MGS-0097,2026-08-07,East,Account Services,Phone,Low,0.57,3.55,3,3,No,Yes,No,3,Escalated
+MGS-0098,2026-09-23,East,Payments,Web portal,Low,14.13,33.04,4,1,No,No,No,2,Resolved
+MGS-0099,2026-08-28,South,Account Services,Web portal,Low,1.71,18.86,2,3,Yes,Yes,Yes,2,Resolved
+MGS-0100,2026-08-14,West,Order Support,Live chat,Medium,2.66,15.56,2,2,No,Yes,No,4,Resolved
+MGS-0101,2026-08-27,South,Order Support,Phone,Medium,6.52,27.39,1,1,Yes,No,No,4,Resolved
+MGS-0102,2026-10-04,South,Payments,Web portal,Urgent,13.04,15.55,3,1,Yes,Yes,No,4,Pending
+MGS-0103,2026-10-08,North,Order Support,Phone,High,1.79,15.52,2,0,Yes,No,No,4,Resolved
+MGS-0104,2026-09-05,South,Customer Portal,Live chat,Medium,1.63,20.01,1,0,No,Yes,No,5,Resolved
+MGS-0105,2026-08-20,South,Order Support,Phone,Medium,1.31,28.17,5,1,No,No,No,3,Pending
+MGS-0106,2026-09-20,East,Payments,Email,Low,8.35,31.46,4,3,No,Yes,No,3,Resolved
+MGS-0107,2026-10-22,North,Account Services,Live chat,Medium,4.0,23.79,1,1,Yes,Yes,No,5,Resolved
+MGS-0108,2026-10-24,South,Payments,Web portal,Medium,10.11,46.4,2,0,No,Yes,No,4,Resolved
+MGS-0109,2026-10-16,South,Technical Support,Email,Medium,3.73,22.01,1,1,Yes,Yes,No,4,Pending
+MGS-0110,2026-08-09,West,Customer Portal,Phone,Low,1.82,20.4,4,2,Yes,No,No,3,Resolved
+MGS-0111,2026-09-18,North,Order Support,Web portal,Urgent,13.76,24.55,2,2,Yes,No,No,3,Resolved
+MGS-0112,2026-08-06,North,Technical Support,Web portal,Medium,15.86,33.78,3,1,Yes,Yes,No,3,Pending
+MGS-0113,2026-10-07,South,Account Services,Email,Low,9.86,7.91,3,1,Yes,Yes,No,4,Pending
+MGS-0114,2026-08-26,South,Technical Support,Email,Low,14.22,53.96,2,1,Yes,No,No,3,Resolved
+MGS-0115,2026-09-08,South,Technical Support,Live chat,High,3.78,24.18,3,2,Yes,Yes,No,3,Pending
+MGS-0116,2026-10-04,West,Customer Portal,Web portal,Medium,4.81,8.23,1,1,Yes,No,No,5,Pending
+MGS-0117,2026-09-08,East,Order Support,Email,Medium,1.99,28.73,3,2,Yes,Yes,No,3,Resolved
+MGS-0118,2026-10-11,West,Order Support,Web portal,Low,11.33,15.09,1,0,Yes,Yes,No,5,Resolved
+MGS-0119,2026-09-12,West,Account Services,Web portal,Medium,24.05,17.29,2,0,No,Yes,Yes,3,Resolved
+MGS-0120,2026-10-13,West,Payments,Web portal,High,7.72,25.42,2,1,Yes,No,No,4,Resolved
+MGS-0121,2026-08-17,South,Payments,Email,Medium,5.27,25.8,2,1,Yes,Yes,No,4,Resolved
+MGS-0122,2026-09-26,North,Technical Support,Email,Medium,20.65,21.11,2,0,No,Yes,No,4,Resolved
+MGS-0123,2026-09-28,South,Technical Support,Live chat,Medium,1.56,26.46,3,1,Yes,No,No,3,Resolved
+MGS-0124,2026-08-30,East,Order Support,Web portal,Medium,5.14,9.44,2,1,Yes,Yes,Yes,3,Resolved
+MGS-0125,2026-09-27,East,Technical Support,Email,Urgent,7.81,15.21,2,0,Yes,Yes,No,4,Resolved
+MGS-0126,2026-08-06,West,Technical Support,Web portal,Low,22.95,27.23,4,1,No,Yes,No,4,Resolved
+MGS-0127,2026-09-09,South,Technical Support,Phone,Medium,4.7,15.91,4,1,Yes,Yes,No,3,Resolved
+MGS-0128,2026-10-15,East,Account Services,Email,Medium,23.36,11.02,3,0,Yes,Yes,No,3,Resolved
+MGS-0129,2026-09-02,West,Technical Support,Live chat,Medium,5.6,41.47,3,1,No,Yes,No,4,Resolved
+MGS-0130,2026-10-21,North,Customer Portal,Phone,Medium,2.08,24.16,3,1,Yes,No,No,4,Pending
+MGS-0131,2026-09-17,West,Account Services,Email,Low,3.87,27.95,2,2,Yes,No,No,4,Resolved
+MGS-0132,2026-10-25,West,Payments,Web portal,Medium,16.88,36.43,1,0,Yes,No,No,5,Resolved
+MGS-0133,2026-10-24,North,Technical Support,Web portal,Medium,23.49,22.13,4,1,Yes,No,No,3,Resolved
+MGS-0134,2026-10-06,West,Account Services,Web portal,Medium,9.16,36.21,2,0,Yes,Yes,Yes,4,Escalated
+MGS-0135,2026-10-08,North,Customer Portal,Phone,Medium,6.41,31.35,4,2,Yes,No,No,3,Resolved
+MGS-0136,2026-10-21,West,Customer Portal,Phone,Low,2.71,6.19,3,1,Yes,Yes,No,3,Resolved
+MGS-0137,2026-10-13,North,Payments,Phone,Medium,3.6,39.21,3,0,Yes,Yes,No,3,Pending
+MGS-0138,2026-08-08,West,Account Services,Phone,Medium,2.45,30.98,1,1,Yes,Yes,No,5,Resolved
+MGS-0139,2026-10-07,West,Customer Portal,Phone,Medium,1.86,37.21,2,0,Yes,No,No,4,Pending
+MGS-0140,2026-08-04,North,Customer Portal,Phone,Medium,4.08,31.49,2,0,Yes,No,Yes,4,Escalated
+MGS-0141,2026-09-28,South,Customer Portal,Web portal,Medium,4.21,33.51,2,2,Yes,Yes,No,4,Pending
+MGS-0142,2026-09-16,North,Order Support,Live chat,Medium,3.8,10.86,4,1,Yes,No,No,3,Pending
+MGS-0143,2026-10-23,East,Order Support,Web portal,Medium,19.7,14.14,3,2,No,Yes,No,3,Pending
+MGS-0144,2026-08-28,West,Technical Support,Web portal,Medium,13.35,22.36,2,2,Yes,Yes,Yes,3,Resolved
+MGS-0145,2026-10-09,West,Account Services,Phone,High,0.87,4.56,1,0,Yes,Yes,No,5,Resolved
+MGS-0146,2026-10-15,North,Order Support,Web portal,Medium,25.42,27.76,1,1,Yes,Yes,No,5,Resolved
+MGS-0147,2026-08-18,South,Payments,Live chat,High,5.39,18.16,4,3,No,Yes,No,2,Resolved
+MGS-0148,2026-08-14,North,Payments,Email,Medium,13.86,22.36,4,2,Yes,No,No,3,Resolved
+MGS-0149,2026-08-04,South,Customer Portal,Live chat,Medium,7.4,32.19,5,2,Yes,Yes,No,2,Resolved
+MGS-0150,2026-09-15,East,Account Services,Email,Medium,11.4,8.36,4,0,Yes,No,No,3,Resolved
+MGS-0151,2026-09-13,North,Technical Support,Live chat,High,1.23,29.0,4,1,Yes,No,No,3,Pending
+MGS-0152,2026-09-21,West,Order Support,Web portal,Low,4.41,27.42,3,0,Yes,No,No,4,Resolved
+MGS-0153,2026-09-22,South,Technical Support,Web portal,Urgent,6.83,26.65,5,2,No,Yes,Yes,2,Resolved
+MGS-0154,2026-09-21,East,Customer Portal,Phone,Medium,2.56,5.89,3,2,No,Yes,No,3,Resolved
+MGS-0155,2026-09-15,East,Customer Portal,Live chat,Medium,1.5,8.26,3,2,Yes,Yes,No,3,Resolved
+MGS-0156,2026-09-26,East,Account Services,Phone,Medium,4.01,9.82,1,1,No,Yes,No,5,Pending
+MGS-0157,2026-10-14,North,Payments,Live chat,Low,3.42,36.42,3,0,Yes,No,No,4,Resolved
+MGS-0158,2026-08-14,East,Customer Portal,Live chat,Medium,1.59,21.87,4,0,Yes,No,Yes,3,Resolved
+MGS-0159,2026-08-17,South,Order Support,Phone,Low,4.98,16.88,4,0,Yes,Yes,No,3,Resolved
+MGS-0160,2026-10-02,South,Order Support,Phone,Medium,1.26,10.39,5,2,No,No,No,2,Resolved
+MGS-0161,2026-09-25,South,Account Services,Email,Medium,14.44,32.81,1,1,No,Yes,No,4,Escalated
+MGS-0162,2026-08-22,North,Account Services,Email,Low,18.34,6.18,1,0,Yes,No,No,5,Escalated
+MGS-0163,2026-10-07,North,Customer Portal,Web portal,Medium,12.18,27.6,3,1,Yes,No,No,4,Resolved
+MGS-0164,2026-10-05,East,Technical Support,Web portal,High,10.07,35.67,5,1,Yes,Yes,Yes,3,Resolved
+MGS-0165,2026-09-27,North,Order Support,Live chat,Low,3.08,14.73,3,1,No,No,No,4,Resolved
+MGS-0166,2026-08-26,North,Order Support,Web portal,Medium,18.59,8.86,1,0,No,Yes,No,5,Resolved
+MGS-0167,2026-09-01,West,Payments,Phone,High,1.9,32.27,1,1,Yes,Yes,No,4,Pending
+MGS-0168,2026-08-30,West,Order Support,Live chat,Medium,1.58,36.75,2,2,No,Yes,No,4,Pending
+MGS-0169,2026-10-06,North,Payments,Web portal,High,6.46,18.6,2,1,Yes,Yes,No,4,Resolved
+MGS-0170,2026-10-22,East,Payments,Email,Urgent,12.34,12.06,3,2,No,No,No,3,Resolved
+MGS-0171,2026-09-21,East,Order Support,Phone,Medium,3.41,26.33,2,0,No,Yes,No,4,Resolved
+MGS-0172,2026-09-06,South,Order Support,Web portal,Low,12.17,16.23,3,2,Yes,Yes,No,4,Resolved
+MGS-0173,2026-09-20,North,Customer Portal,Web portal,Urgent,1.28,22.69,3,0,Yes,No,No,4,Resolved
+MGS-0174,2026-10-12,South,Customer Portal,Email,High,11.96,3.43,4,1,Yes,Yes,No,3,Resolved
+MGS-0175,2026-10-14,South,Technical Support,Web portal,Medium,9.96,13.64,3,2,Yes,No,Yes,2,Resolved
+MGS-0176,2026-09-24,West,Order Support,Email,High,10.35,14.07,1,0,Yes,Yes,No,5,Pending
+MGS-0177,2026-08-26,North,Order Support,Phone,Medium,2.04,26.67,2,1,Yes,No,No,4,Escalated
+MGS-0178,2026-10-22,East,Account Services,Web portal,Medium,20.58,3.84,2,1,Yes,Yes,No,4,Resolved
+MGS-0179,2026-08-28,East,Payments,Phone,Low,7.37,19.15,1,0,No,Yes,No,5,Resolved
+MGS-0180,2026-09-27,East,Account Services,Email,High,3.53,4.37,2,2,Yes,No,No,4,Pending
+MGS-0181,2026-10-20,South,Account Services,Email,Medium,3.82,10.31,1,1,Yes,Yes,No,4,Resolved
+MGS-0182,2026-08-20,West,Order Support,Live chat,High,2.1,10.94,2,1,Yes,Yes,No,3,Escalated
+MGS-0183,2026-10-10,North,Payments,Phone,Low,2.94,35.79,3,2,Yes,Yes,No,3,Pending
+MGS-0184,2026-08-27,West,Payments,Live chat,Low,2.15,44.53,2,2,Yes,Yes,No,4,Pending
+MGS-0185,2026-09-13,West,Account Services,Web portal,Low,3.28,8.96,2,0,Yes,No,No,4,Resolved
+MGS-0186,2026-09-26,East,Payments,Live chat,Medium,4.19,35.61,3,1,Yes,Yes,No,3,Resolved
+MGS-0187,2026-08-24,East,Customer Portal,Phone,Medium,1.68,23.2,1,0,Yes,No,No,5,Resolved
+MGS-0188,2026-08-09,East,Technical Support,Phone,High,1.43,11.15,4,3,No,Yes,No,2,Resolved
+MGS-0189,2026-10-12,South,Technical Support,Web portal,Low,8.11,15.53,1,0,No,Yes,No,4,Resolved
+MGS-0190,2026-09-15,South,Customer Portal,Live chat,Medium,5.7,26.47,3,1,Yes,Yes,No,3,Resolved
+MGS-0191,2026-09-24,East,Account Services,Email,High,2.55,4.33,2,0,Yes,No,No,4,Resolved
+MGS-0192,2026-09-16,West,Order Support,Email,High,2.71,25.68,5,1,No,No,No,3,Resolved
+MGS-0193,2026-10-17,East,Technical Support,Phone,Medium,0.59,37.84,2,0,Yes,No,No,4,Resolved
+MGS-0194,2026-09-09,East,Account Services,Live chat,High,4.91,16.64,1,1,Yes,Yes,No,5,Resolved
+MGS-0195,2026-09-21,North,Customer Portal,Phone,High,3.25,25.95,2,0,No,Yes,Yes,4,Pending
+MGS-0196,2026-10-16,East,Account Services,Email,Medium,8.36,19.35,4,0,No,Yes,No,3,Resolved
+MGS-0197,2026-09-13,West,Account Services,Live chat,Medium,1.89,14.8,2,0,Yes,No,No,4,Pending
+MGS-0198,2026-08-20,South,Account Services,Email,High,14.88,19.68,1,1,Yes,Yes,No,4,Resolved
+MGS-0199,2026-10-25,West,Order Support,Email,Low,8.56,14.43,2,1,No,Yes,No,3,Resolved
+MGS-0200,2026-09-14,North,Account Services,Phone,Low,7.27,3.16,1,1,Yes,Yes,No,4,Resolved
+MGS-0201,2026-10-04,South,Order Support,Web portal,High,14.56,5.18,2,0,No,No,No,5,Pending
+MGS-0202,2026-10-04,East,Order Support,Phone,Medium,3.29,10.54,3,0,Yes,Yes,No,4,Resolved
+MGS-0203,2026-09-29,East,Account Services,Phone,Medium,0.44,26.48,4,0,Yes,Yes,No,3,Pending
+MGS-0204,2026-08-12,East,Order Support,Email,Medium,24.69,11.4,2,2,Yes,Yes,Yes,3,Resolved
+MGS-0205,2026-10-21,North,Customer Portal,Email,Urgent,1.36,10.44,3,0,Yes,Yes,No,4,Resolved
+MGS-0206,2026-08-19,North,Order Support,Email,High,5.89,11.22,1,1,No,Yes,No,5,Resolved
+MGS-0207,2026-09-28,North,Customer Portal,Email,Low,20.79,23.06,2,0,Yes,No,No,4,Pending
+MGS-0208,2026-08-30,North,Order Support,Email,Medium,16.01,15.16,2,0,Yes,Yes,No,4,Pending
+MGS-0209,2026-08-23,East,Order Support,Live chat,Medium,6.31,15.11,2,2,Yes,No,No,4,Pending
+MGS-0210,2026-10-21,South,Payments,Web portal,High,13.31,26.65,2,0,Yes,Yes,No,5,Resolved
+MGS-0211,2026-09-14,North,Customer Portal,Web portal,Medium,10.3,23.0,5,2,No,No,No,2,Resolved
+MGS-0212,2026-09-16,South,Payments,Live chat,Low,2.95,33.45,1,1,Yes,Yes,No,5,Resolved
+MGS-0213,2026-10-20,South,Order Support,Email,Urgent,2.34,23.75,1,1,No,Yes,No,5,Resolved
+MGS-0214,2026-09-25,East,Order Support,Phone,Medium,2.07,22.87,4,0,No,Yes,No,3,Pending
+MGS-0215,2026-08-04,East,Payments,Phone,Low,5.56,28.7,2,2,Yes,Yes,No,4,Resolved
+MGS-0216,2026-10-11,West,Account Services,Live chat,Low,1.96,37.65,1,1,Yes,No,No,5,Resolved
+MGS-0217,2026-08-13,North,Customer Portal,Email,Low,6.99,32.18,1,1,Yes,Yes,No,4,Resolved
+MGS-0218,2026-10-01,South,Order Support,Email,Medium,2.87,17.82,2,2,Yes,Yes,No,3,Resolved
+MGS-0219,2026-09-08,East,Customer Portal,Phone,High,0.96,8.23,1,1,Yes,Yes,Yes,3,Resolved
+MGS-0220,2026-09-03,East,Technical Support,Email,Medium,13.14,56.28,2,1,Yes,No,No,4,Resolved
+MGS-0221,2026-10-16,North,Payments,Email,High,3.47,14.9,3,0,No,Yes,Yes,3,Resolved
+MGS-0222,2026-10-03,South,Customer Portal,Phone,Low,0.49,16.05,2,1,No,Yes,No,3,Pending
+MGS-0223,2026-10-23,West,Technical Support,Phone,Medium,3.87,36.24,3,2,Yes,Yes,No,3,Escalated
+MGS-0224,2026-08-08,West,Customer Portal,Live chat,Medium,4.46,28.04,4,0,Yes,Yes,Yes,3,Resolved
+MGS-0225,2026-08-28,North,Customer Portal,Phone,Medium,4.59,20.19,1,1,No,Yes,No,4,Resolved
+MGS-0226,2026-09-06,East,Payments,Web portal,Low,14.05,29.7,3,2,Yes,No,No,3,Resolved
+MGS-0227,2026-10-01,North,Account Services,Phone,High,4.39,24.18,3,2,Yes,Yes,No,4,Resolved
+MGS-0228,2026-08-25,East,Technical Support,Email,Urgent,13.48,24.04,3,2,Yes,Yes,No,3,Resolved
+MGS-0229,2026-10-23,West,Technical Support,Live chat,Low,1.4,56.72,2,2,Yes,No,No,4,Pending
+MGS-0230,2026-09-15,West,Payments,Web portal,Medium,10.69,24.76,3,1,Yes,Yes,Yes,4,Resolved
+MGS-0231,2026-09-17,North,Technical Support,Web portal,High,10.96,32.86,1,0,No,Yes,No,5,Pending
+MGS-0232,2026-08-29,West,Customer Portal,Live chat,High,2.69,5.43,2,1,Yes,Yes,No,4,Resolved
+MGS-0233,2026-08-24,East,Payments,Phone,Low,0.34,19.38,3,1,Yes,Yes,No,3,Resolved
+MGS-0234,2026-09-26,North,Order Support,Phone,Medium,3.72,8.46,1,0,Yes,Yes,No,5,Resolved
+MGS-0235,2026-09-15,East,Payments,Email,Medium,10.37,24.4,1,0,Yes,Yes,No,4,Pending
+MGS-0236,2026-08-26,East,Order Support,Email,Low,14.39,23.1,3,2,Yes,Yes,No,4,Resolved
+MGS-0237,2026-09-10,East,Order Support,Email,Medium,1.08,11.04,1,1,Yes,Yes,No,4,Escalated
+MGS-0238,2026-08-29,North,Customer Portal,Email,Low,18.2,26.81,3,0,No,Yes,No,4,Pending
+MGS-0239,2026-09-30,South,Payments,Web portal,Medium,8.51,45.79,2,2,Yes,Yes,No,3,Resolved
+MGS-0240,2026-08-08,South,Order Support,Email,High,6.54,7.83,1,0,No,Yes,No,5,Resolved
